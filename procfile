@@ -1,0 +1,1 @@
+web: gunicorn Diabetes-detector.wsgi --log-file -
